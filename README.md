@@ -24,4 +24,4 @@ http://localhost:8084/icon/svg/myfile.zip
 
 Result 
 
-![zip icon](https://raw.githubusercontent.com/Doelia/icon-extension-api/master/icons/png/027-zip.png)
+![zip icon](https://raw.githubusercontent.com/https://github.com/tbasdev57/icon-extension-/edit/main/README.md/png/027-zip.png)
